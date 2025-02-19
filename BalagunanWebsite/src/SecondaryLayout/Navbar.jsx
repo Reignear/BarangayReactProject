@@ -34,7 +34,7 @@ const Navbar = () => {
       image: profile,
     };
     if (user.isLoggedIn) {
-      setIsLoggedIn(true);
+      setIsLoggedIn(false);
       setUserName(user.name);
       setUserEmail(user.email);
       setUserImage(user.image);
