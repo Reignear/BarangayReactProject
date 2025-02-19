@@ -28,7 +28,7 @@ const router = createBrowserRouter(
         <Route path="notification" element={<Notification />} />
         <Route path="activityLog" element={<ActivityLog />} />
       </Route>
-      <Route path="Login" element={<Login />} />
+      <Route path="Loginssss" element={<Login />} />
       <Route path="Register" element={<Register />} />
       <Route path="ReferenceKey" element={<ReferenceKey />} />
       <Route path="LearnMorePage" element={<LearnMorePage />} />
