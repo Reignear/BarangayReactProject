@@ -35,7 +35,7 @@ const router = createBrowserRouter(
     </Route>
   )
 );
-
+// Fuck gi atay
 const App = () => {
   return <RouterProvider router={router}></RouterProvider>;
 };
